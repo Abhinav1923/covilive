@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/covilive/static/css/main.126ac8ac.chunk.css",
+    "main.js": "/covilive/static/js/main.194c402b.chunk.js",
+    "main.js.map": "/covilive/static/js/main.194c402b.chunk.js.map",
+    "runtime-main.js": "/covilive/static/js/runtime-main.4b50a961.js",
+    "runtime-main.js.map": "/covilive/static/js/runtime-main.4b50a961.js.map",
+    "static/js/2.569cbf18.chunk.js": "/covilive/static/js/2.569cbf18.chunk.js",
+    "static/js/2.569cbf18.chunk.js.map": "/covilive/static/js/2.569cbf18.chunk.js.map",
+    "index.html": "/covilive/index.html",
+    "static/css/main.126ac8ac.chunk.css.map": "/covilive/static/css/main.126ac8ac.chunk.css.map",
+    "static/js/2.569cbf18.chunk.js.LICENSE.txt": "/covilive/static/js/2.569cbf18.chunk.js.LICENSE.txt",
+    "static/media/HeroSvg.a17a2514.svg": "/covilive/static/media/HeroSvg.a17a2514.svg",
+    "static/media/index.css": "/covilive/static/media/N0bX2SlFPv1weGeLZDtgK_7SodY.cb2aaf92.woff2",
+    "static/media/activeCases.76c79f5b.svg": "/covilive/static/media/activeCases.76c79f5b.svg",
+    "static/media/confirmedCases.6efd24e4.svg": "/covilive/static/media/confirmedCases.6efd24e4.svg",
+    "static/media/deathCases.06c6f7bb.svg": "/covilive/static/media/deathCases.06c6f7bb.svg",
+    "static/media/deceasedCases.cf706d29.svg": "/covilive/static/media/deceasedCases.cf706d29.svg",
+    "static/media/dribbble.01656273.svg": "/covilive/static/media/dribbble.01656273.svg",
+    "static/media/logo.da2b277b.svg": "/covilive/static/media/logo.da2b277b.svg",
+    "static/media/recoveredCases.5aecbc9e.svg": "/covilive/static/media/recoveredCases.5aecbc9e.svg",
+    "static/media/testsCases.2d245329.svg": "/covilive/static/media/testsCases.2d245329.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b50a961.js",
+    "static/js/2.569cbf18.chunk.js",
+    "static/css/main.126ac8ac.chunk.css",
+    "static/js/main.194c402b.chunk.js"
+  ]
+}
